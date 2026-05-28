@@ -158,9 +158,3 @@ logs.txt
 - Click
 - python-dotenv
 - Logging module
-
----
-
-## Author
-
-Dhananjayan M
