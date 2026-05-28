@@ -1,0 +1,44 @@
+2026-05-28 10:49:50,764 - INFO - Logger test successful
+2026-05-28 10:50:01,022 - INFO - Logger test successful
+2026-05-28 10:53:35,927 - INFO - Binance client connected successfully
+2026-05-28 10:53:52,193 - INFO - Binance client connected successfully
+2026-05-28 10:56:17,458 - INFO - Binance client connected successfully
+2026-05-28 10:59:01,051 - INFO - Binance client connected successfully
+2026-05-28 10:59:02,483 - INFO - Account access successful
+2026-05-28 11:17:26,566 - INFO - Binance client connected successfully
+2026-05-28 11:18:58,944 - INFO - Binance client connected successfully
+2026-05-28 11:18:58,944 - INFO - Placing MARKET order | BTCUSDT | BUY | Qty: 0.001
+2026-05-28 11:18:59,719 - INFO - MARKET order success: {'orderId': 13281179597, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ69ba91f3560aeaf0856c32', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1779947339679}
+2026-05-28 11:22:33,383 - INFO - Binance client connected successfully
+2026-05-28 11:22:33,383 - INFO - Placing MARKET order | BTCUSDT | BUY | Qty: 0.001
+2026-05-28 11:22:34,380 - INFO - MARKET order success: {'orderId': 13281450119, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ74e7b59ed0ff1c7875ccbd', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1779947554119}
+2026-05-28 11:22:34,387 - INFO - Order placed successfully
+2026-05-28 11:23:03,586 - INFO - Binance client connected successfully
+2026-05-28 11:23:03,590 - INFO - Placing LIMIT order | BTCUSDT | BUY | Qty: 0.001 | Price: 50000.0
+2026-05-28 11:23:04,494 - INFO - LIMIT order success: {'orderId': 13281488021, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJc0a690b002a440de305bd6', 'price': '50000.00', 'avgPrice': '0.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1779947584356}
+2026-05-28 11:23:04,494 - INFO - Order placed successfully
+2026-05-28 11:23:37,893 - INFO - Binance client connected successfully
+2026-05-28 11:23:37,893 - ERROR - CLI Error: Side must be BUY or SELL
+2026-05-28 11:24:12,083 - INFO - Binance client connected successfully
+2026-05-28 11:24:12,083 - INFO - Placing MARKET order | BTCUSDT | HELLO | Qty: 0.001
+2026-05-28 11:24:12,899 - ERROR - Binance API Error: APIError(code=-1117): Invalid side.
+2026-05-28 11:24:12,899 - ERROR - CLI Error: APIError(code=-1117): Invalid side.
+2026-05-28 11:24:50,189 - INFO - Binance client connected successfully
+2026-05-28 11:24:50,189 - ERROR - CLI Error: Side must be BUY or SELL
+2026-05-28 11:47:32,308 - INFO - Binance client connected successfully
+2026-05-28 11:47:54,418 - INFO - Binance client connected successfully
+2026-05-28 11:47:54,434 - INFO - Placing MARKET order | ABCXYZ | BUY | Qty: 0.001
+2026-05-28 11:47:55,249 - ERROR - Binance API Error: APIError(code=-1121): Invalid symbol.
+2026-05-28 11:47:55,249 - ERROR - CLI Error: APIError(code=-1121): Invalid symbol.
+2026-05-28 11:49:03,208 - INFO - Binance client connected successfully
+2026-05-28 11:49:03,222 - INFO - Placing MARKET order | BTCUSDT | BUY | Qty: 0.001
+2026-05-28 11:49:04,052 - INFO - MARKET order success: {'orderId': 13283423407, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ70ffdf31ed61a2f4bc32ad', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1779949143995}
+2026-05-28 11:49:04,052 - INFO - Order placed successfully
+2026-05-28 11:49:17,784 - INFO - Binance client connected successfully
+2026-05-28 11:49:17,784 - INFO - Placing LIMIT order | BTCUSDT | BUY | Qty: 0.001 | Price: 50000.0
+2026-05-28 11:49:18,610 - INFO - LIMIT order success: {'orderId': 13283449665, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ6d8ce54fd44c401dbd9e12', 'price': '50000.00', 'avgPrice': '0.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1779949158515}
+2026-05-28 11:49:18,610 - INFO - Order placed successfully
+2026-05-28 11:50:31,524 - INFO - Binance client connected successfully
+2026-05-28 11:50:31,524 - INFO - Placing MARKET order | BTCUSDT | BUY | Qty: 0.001
+2026-05-28 11:50:32,329 - INFO - MARKET order success: {'orderId': 13283531859, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ43e3752d639bf4f929f498', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1779949232248}
+2026-05-28 11:50:32,329 - INFO - Order placed successfully
